@@ -1,0 +1,23 @@
+header {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  height: 160px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 45px;
+  font-weight: bold;
+}
+
+header div {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+header p {
+  font-size: 30px;
+  text-align: center;
+}

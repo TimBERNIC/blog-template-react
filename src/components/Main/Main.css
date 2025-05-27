@@ -68,7 +68,6 @@ main {
   object-position: 50% 50%;
 }
 .pictures-box > img:hover {
-  border: #333333 solid 2px;
   opacity: 0.8;
 }
 
